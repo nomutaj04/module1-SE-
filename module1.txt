@@ -1,0 +1,56 @@
+1. what is software? what is software engineering?
+  software: A piece of code writtwn in code or program do some task is called software.
+
+1. 1 How many types of software are there:
+    There are three types if software:
+ 1. System software:
+---------------------
+ eg: drivers,  firewall etc
+
+2. Programming software:
+---------------------------
+eg: Compiler (c,c++,java,python) interpreter (c#,javascript,perl)
+
+3. Web application software :
+----------------------------------
+html,css
+
+
+
+2. Explain types of software3
+3. What is SDLC ? Explain each phase of SDLC
+
+   SDLC: Software Development Life Cycle
+----------
+1.Reqirement Gathering:
+
+2.Analysis:
+
+3.Design:
+
+4.Implementation/Coding:
+
+5.Testing:
+
+6.Maintaince:
+
+
+4. What is DFD? Create a DFD Diagram on flipkart
+  Data flow diagram
+
+Ans. a data-flow diagram is a way of representing a flow of data through a process or a system. the DFD also provides information about the outputs and inputs of each entity and the process itself.
+
+5. what is flow chart? Create a flowchart to make adddition of two numbers
+
+Ans. A flowchart is a diagram that depicts a process,system or computer algorithm. They are widely used in multiple fields to document,study,plan,improve and communicate often complex processes in clear,easy-to-understand diagrams.
+
+
+
+
+
+
+
+
+
+
+
